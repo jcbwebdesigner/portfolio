@@ -1,0 +1,86 @@
+@media screen and (max-width:1620px) {
+	#wrap-row-3 			{width: 782px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+}
+
+@media screen and (max-width:1500px) {
+	#row-2 				{width: 559px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#biographie 			{-webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#plus 				{display: block; margin: 60px auto; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#skills 			{-webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}	
+}
+
+@media screen and (max-width:1450px) {
+	.wrap-preview 			{width: 559px; padding: 2vh 0vh; text-align: center; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.preview			{margin-top: 3vh;}
+	.display 			{margin-right: 0; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.display img 			{width: 100%;}
+}
+
+@media screen and (max-width:1380px) {
+	#wrap-edito-contact 		{top: 270px; right: 104px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#map 				{height: 500px;}
+	.arrow_box:after, 
+	.arrow_box:before 		{bottom: 100%; left: 50%;}
+	.arrow_box:after 		{border-color: rgba(22, 22, 22, 0); border-bottom-color: #161616; border-width: 15px; margin-left: -15px; top: -15px;}
+	.arrow_box:before 		{border-color: rgba(136, 136, 136, 0); border-bottom-color: #888888; border-width: 16px; margin-left: -16px; top: -16px;}
+	.wrap-thumbs:nth-of-type(2) 	{margin-right: 0;}
+
+}
+
+@media screen and (max-width:835px) {
+	#wrap-row-3 			{width: 559px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.wrap-thumbs 			{margin-right: 0; width: 100%; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.wrap-thumbs figure 		{width: 555px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.wrap-thumbs figure p 		{width: 513px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.mobile 			{width: 491px!important; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+}
+
+@media screen and (max-width:629px) {
+	.wrap-row 				{width: 320px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.separator 				{width: 100%; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.headline h2 			{font-size: 5.0em; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.headline .up 			{top:10px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#nav-primary li 			{width: 90px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#nav-primary li:nth-child(3) 	{width: 75px; padding-left: 15px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#wrap-social 			{width: 320px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#wrap-social  li 			{margin-right: 21px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#wrap-logo h1 			{font-size: 7.2em; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#wrap-slogan p 			{font-size: 2.0em; margin: 0 12px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.mini-separator 			{width: 78px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#row-2 				{width: 320px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#biographie 			{width: 100%; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#biographie h3 			{font-size: 3.0em;}
+	#biographie h3:nth-of-type(2) 	{font-size: 3.0em;}
+	#skills 				{width: 320px;-webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#wrap-skills 			{width: 100%; margin: 60px 25px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#wrap-skills li:nth-child(1),
+	#wrap-skills li:nth-child(2),
+	#wrap-skills li:nth-child(3),
+	#wrap-skills li:nth-child(4) 	{margin-bottom: 20px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#wrap-edito-skills 		{width: 100%; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.edito-skills p 			{width: 100%; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	#wrap-row-3 			{width: 320px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.wrap-thumbs figure 		{width: 316px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.wrap-thumbs figure p 		{width: 274px; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; transition: all .5s ease;}
+	.mobile 				{width: 252px!important;}
+}
+
+@media screen and (max-width:1370px) {
+
+}
+
+@media screen and (max-width:1024px) {
+
+}
+
+@media screen and (max-width:728px) {
+ 		
+}
+
+@media screen and (max-width:480px) {
+
+}
+
+@media screen and (max-width:305px) {
+
+}
