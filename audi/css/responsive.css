@@ -1,0 +1,45 @@
+
+@media screen and (min-width:1281px) and (max-width:1370px) {
+
+}
+
+
+@media screen and (min-width:1025px) and (max-width:1280px) {
+
+}
+
+@media screen and (min-width:729px) and (max-width:1024px) {
+
+header 								{width: 100%;}
+header #logo 						{float: none; display: block; margin: 0 auto;}
+header #menu 						{float: left; width: 100%; margin: 15px 0; background: none; border: none;}
+header #menu li 					{float: left; display: inline-block; margin-bottom: 5px; margin-left: 0.5%; width: 24.1625%; height: 35px; background: #f1f1f1; border: 1px solid #c5c5c5;}
+header #menu .btn_menu 				{display: block; padding-top: 10px; background: none; text-align: center;}
+
+.edito-wrap 						{float: none; width: 100%;}
+.ml3 								{margin-left: 0; margin-top: 3%;}
+#gallerie-wrap .image               {width: 100%; margin: 0 0 7px 0;}
+
+}
+
+@media screen and (max-width:728px) {
+
+header 								{width: 100%;}
+header #logo 						{float: none; display: block; margin: 0 auto;}
+header #menu 						{float: left; width: 100%; margin: 15px 0; background: none; border: none;}
+header #menu li 					{float: none; display: inline-block; margin-bottom: 5px; width: 100%; height: 25px; background: #f1f1f1; border: 1px solid #c5c5c5;}
+header #menu .btn_menu 				{display: block; padding-top: 6px; background: none; text-align: center;}
+
+.edito-wrap 						{float: none; width: 100%;}
+.ml3 								{margin-left: 0; margin-top: 3%;}
+#gallerie-wrap .image               {width: 100%; margin: 0 0 7px 0;}
+
+}
+
+@media screen and (min-width:0px) and (max-width:480px) {
+
+}
+
+@media screen and (min-width:0px) and (max-width:305px) {
+
+}

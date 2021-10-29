@@ -1,0 +1,32 @@
+#wrapper 							{width: 100%;}
+#wrapper #content 					{width: 80%; margin: 1.5% auto 0;}
+
+img 								{width: 100%;}
+
+header 								{height: 100px; margin-bottom: 40px;}
+header #logo 						{float: left;  background: url(../medias/logo_audi.png) no-repeat; width: 148px; height: 100px; text-indent: -999em;}
+header #menu 						{float: right; background: #f1f1f1; border: 1px solid #c5c5c5; margin-top: 30px;}
+header #menu li 					{float: left;}
+header #menu .btn_menu 				{display: block; padding: 15px; text-decoration: underline; color: red; font-size: 0.8em; font-weight: 900; }
+
+#slider 							{margin-bottom: 40px;}
+
+
+#edito1 							{margin-bottom: 40px;}
+#edito1 h1 							{font-size: 25px; font-weight: 900; color: red; margin-bottom: 20px;}
+#edito1 p 							{font-size: 14px;}
+
+.edito-wrap 						{float: left; width: 48%;}
+.ml3 								{margin-left: 4%;}
+.edito-wrap .edito2  				{padding: 10px; max-height: 10em; background: #f1f1f1; overflow: auto; border: 1px solid #c5c5c5;}
+
+#gallerie-wrap                      {float: left; width: 100%; margin-top: 40px;}
+#gallerie-wrap .image               {float: left; width: 32%; margin-bottom: 20px;}
+#gallerie-wrap .ml1 				{margin-left: 2%;}
+
+footer								{float: left; width: 100%; height: 40px; background: #c5c5c5;}
+footer #social 						{float: right; min-width: 142px; margin-top: 8px;}
+footer #social .sprite 				{float: left; display: block; margin-right: 8%; background: url(../medias/ico_reseaux-sociaux.gif) no-repeat; width: 24px; height: 27px;}
+footer #social #tw 					{background-position: -37px 0;}
+footer #social #gp 					{background-position: -74px 0;}
+footer #social #pt 					{background-position: -112px 0;}
